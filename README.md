@@ -10,6 +10,7 @@ Pradinio ugdymo forumo sistemos paskirtis – dalintis informacija apie idėjas 
 Uždaviniai:
 
 Parengta ir su dėstytoju suderinta projekto užduotis. ✔
+
 Pasiekti minimalūs užduoties apimties reikalavimai:
 
 1. bent 3 taikomosios srities objektai tarpusavyje susieti prasminiu ir hierarchiniu ryšiu (pvz.: tema->įrašas->komentaras);
